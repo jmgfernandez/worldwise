@@ -1,8 +1,28 @@
-# React + Vite
+# Worldwise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+One of the intermediate projects in Jonas Schmedtmann's Ultimate React Course. A web app where users can register all the cities they have traveled to. Built with React.
 
-Currently, two official plugins are available:
+Live Demo [here](https://worldwise-jmgf.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- Build tool - Vite
+- Frontend - React
+- Routing - React Router
+- Styling - CSS Modules
+- Mapping - React Leaflet
+
+## Features
+
+- Add to your list of cities traveled to via a map
+- Switch between city and country view
+
+## Screenshots
+
+![Worldwise home page screenshot](./public/screenshots/worldwise-ss-root.png)
+
+![Worldwise app page screenshot](./public/screenshots/worldwise-ss-app.png)
+
+## Usage
+
+The login form is pre-filled with demo account credentials, so you can log in immediately after launching the app.
