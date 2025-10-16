@@ -6,8 +6,8 @@ Live Demo [here](https://worldwise-jmgf.netlify.app/).
 
 ## Technologies Used
 
+- Frontend library - React
 - Build tool - Vite
-- Frontend - React
 - Routing - React Router
 - Styling - CSS Modules
 - Mapping - React Leaflet
